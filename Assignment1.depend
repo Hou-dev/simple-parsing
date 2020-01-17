@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1539400264 source:/home/javed/Documents/Projects/Assignment1/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<wait.h>
+	<fstream>
+	<istream>
+	<string>
+	<queue>
+	<vector>
+	<sstream>
+	<algorithm>
+	<semaphore.h>
+	<map>
+
